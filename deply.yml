@@ -4,8 +4,8 @@ metadata:
   name: testpod                  
 spec:                                    
   containers:                      
-    - name: rj                    
-      image: devaimages             
+    - name: devilal                   
+      image: kjimages             
 
           
 
