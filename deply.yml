@@ -5,7 +5,7 @@ metadata:
 spec:                                    
   containers:                      
     - name: rj                    
-      image: pj              
+      image: devaimages             
 
           
 
