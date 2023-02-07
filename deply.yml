@@ -5,7 +5,7 @@ metadata:
 spec:                                    
   containers:                      
     - name: devilal                   
-      image: node.js            
+      image: ubuntu            
 
           
 
