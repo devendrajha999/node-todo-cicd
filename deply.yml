@@ -5,7 +5,7 @@ metadata:
 spec:                                    
   containers:                      
     - name: devilal                   
-      image: kjimages             
+      image: node.js            
 
           
 
